@@ -17,6 +17,14 @@ output:
 </center><br>  
 
 <center>
+
+<font size="+2"><b>It was so challenging!!</b></font></center><br>
+
+<center><p><img src="https://raw.githubusercontent.com/inovick/Self_Evaluation_Novick/main/01-Valentina.gif" style="border:5px solid black"></p>
+</center><br>  
+
+
+<center>
 The following self evaluation is meant to guide you through a reflection on what you put into this course, and also what you got out of it in return. Your self evaluation is *not* the place to criticize, evaluate, or thank the instructor (we will have had many thorough conversations about that in class, and formal evaluations on the last day of class). This is about *you*. Unless otherwise noted, please answer each question in no more than *eight* sentences. At the end, I ask you to assign yourself a grade that you think is both a fair and honest reflection of your performance in the class given what was asked of you.
 <br><br>
 Whether I agree with your assessment or not, I will schedule a time for us to discuss your self-assessment. In this discussion, we will come to an agreement regarding your final grade reflecting the criteria in the [Course Overview](https://fuzzyatelin.github.io/bioanth-stats/overview.html) and as outlined below. 
