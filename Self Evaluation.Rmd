@@ -11,9 +11,9 @@ output:
 
 <center>
 
-<font size="+2"><b>Sashay... Away.</b></font></center><br>
+<font size="+2"><b>So Much Information</b></font></center><br>
 
-<center><p><img src="https://media.giphy.com/media/RPdLHpiOnL2pO/giphy.gif" style="border:5px solid black"></p>
+<center><p><img src="https://raw.githubusercontent.com/inovick/Self_Evaluation_Novick/main/confused%20coco.gif" style="border:5px solid black"></p>
 </center><br>  
 
 <center>
