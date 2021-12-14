@@ -23,20 +23,14 @@ output:
 <center><p><img src="https://raw.githubusercontent.com/inovick/Self_Evaluation_Novick/main/01-Valentina.gif" style="border:5px solid black"></p>
 </center><br>  
 
+<center>
+
+<font size="+2"><b>But in the end, I'm proud of what I accomplished!</b></font></center><br>
+
+<center><p><img src="https://raw.githubusercontent.com/inovick/Self_Evaluation_Novick/main/alaska-thunder-ru-paul.gif" style="border:5px solid black"></p>
+</center><br>  
 
 <center>
-The following self evaluation is meant to guide you through a reflection on what you put into this course, and also what you got out of it in return. Your self evaluation is *not* the place to criticize, evaluate, or thank the instructor (we will have had many thorough conversations about that in class, and formal evaluations on the last day of class). This is about *you*. Unless otherwise noted, please answer each question in no more than *eight* sentences. At the end, I ask you to assign yourself a grade that you think is both a fair and honest reflection of your performance in the class given what was asked of you.
-<br><br>
-Whether I agree with your assessment or not, I will schedule a time for us to discuss your self-assessment. In this discussion, we will come to an agreement regarding your final grade reflecting the criteria in the [Course Overview](https://fuzzyatelin.github.io/bioanth-stats/overview.html) and as outlined below. 
-
-</center>
-***
-
-## Instructions
-
-***
-
-Please download this Markdown file (`selfevaluation.Rmd`) from my GitHub site (in the `fuzzyatelin.github.io/bioanth-stats/` folder) and answer the appropriate questions in the spaces provided. Once you've knitted the final file, please *email* the **html** version of that file to me with the name `[LastF]_F19_SelfEvaluation.html` (with `LastF` meaning your last name followed by your first initial, i.e., mine would be called `SchmittC_F19_SelfEvaluation.html`). I must receive this file by **Midnight of the Final Exam Date**.
 
 ***
 
@@ -44,7 +38,10 @@ Please download this Markdown file (`selfevaluation.Rmd`) from my GitHub site (i
 
 ***
 
-In place of my name as author on this Markdown file, please insert your own, along with the date on which you completed this self-assessment. In place of the RuPaul GIF, above, please choose a GIF of a drag queen that best exemplifies your overall feelings about what you learned/accomplished in this course. Additionally, replace the `The following self evaluation...` text below your GIF with a three sentence summary of your experience in the class and what you take away from it to accompany that GIF. You may also choose a catchy title.
+Overall, this class was very challenging, but ultimately rewarding. Out of the 3 R classes I have taken throughout my academic career, I have learned the most in this one. I am really proud of what I accomplished this semester (even though I wish I had put even more into it, I am trying to be realistic), and I have grown a lot in my understanding of statistics and Rstudio.
+
+</center>
+
 
 ***
 
@@ -54,6 +51,14 @@ In place of my name as author on this Markdown file, please insert your own, alo
 
 Please give me a bulleted/numbered list of each task you were asked to do for this course. Where relevant, please also link the *html* version of the file representing each task, in your own repos, to the bulleted entry for that task.<br><br><br><br><br><br>
 
+1. Homework 1 and peer commentary
+2. Homework 2 and peer commentary
+3.
+4.
+5.
+6. Group Module: Comparing phylogenetic tree topologies
+7. Replication Assignment
+8. Self Evaluation
 ***
 
 ### What did you accomplish?
@@ -114,12 +119,15 @@ Please name at least three things you feel you learned in this course.<br><br><b
 
 ### Taking this self-assessment into account (and with **A** being the highest), if you were the instructor, what grade would you give yourself given your evaluation of your own performance this semester? Please be honest.
 
-***
-
-<br><center>[insert letter grade here]</center><br>
+I think I would give myself a B. I am really proud of the work I did on the group module and the replication assignment, but I feel like I could have done better on the assignments, and could have given more meaningful feedback during peer commentary.
 
 ***
 
+<br><center>[B]</center><br>
+
+***
+
+![]"https://raw.githubusercontent.com/inovick/Self_Evaluation_Novick/main/katya%20computer.gif"
 
 
 
