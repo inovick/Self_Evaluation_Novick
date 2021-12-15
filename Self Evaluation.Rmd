@@ -11,6 +11,10 @@ output:
 
 <center>
 
+<font size="+2"><b>A Story in GIFs...</b></font></center><br>
+
+<center>
+
 <font size="+2"><b>So Much Information</b></font></center><br>
 
 <center><p><img src="https://raw.githubusercontent.com/inovick/Self_Evaluation_Novick/main/confused%20coco.gif" style="border:5px solid black"></p>
@@ -54,34 +58,49 @@ Please give me a bulleted/numbered list of each task you were asked to do for th
 Note: My peer commentary can be found in the repos of the people I was commenting on, and their commentary of my work can be found in my repo. I'm assuming that's how it was intended, but if not, that's where it all is!
 
 1. Homework 1: Push It!
+
   Repo: https://github.com/inovick/AN588-Week-2-inovick
+  
   Final knitted document: https://github.com/inovick/AN588-Week-2-inovick/blob/main/inovick_finalHWcode_01.html
   
 2. Homework 2: Titis in the Mist
+
   Repo: https://github.com/inovick/AN588-Week-3-inovick-
+  
   Final knitted document: https://github.com/inovick/AN588-Week-3-inovick-/blob/main/inovick_finalhwcode_02.html
 
 3. Homework 3: Some of my best friends are zombies
+
   Repo: https://github.com/inovick/AN588_Zombies_inovick
+  
   Final knitted document: https://github.com/inovick/AN588_Zombies_inovick/blob/main/inovick_finalhwcode_03.html
 
 4. Homework 4: What's your Malfunction?
+
   Repo: https://github.com/inovick/AN588_Malfunction_inovick
+  
   Final knitted document: https://github.com/inovick/AN588_Malfunction_inovick/blob/master/inovick_final_hw_code_04.html
 
 5. Homework 5: Boots for Days!
+
   Repo: https://github.com/inovick/AN588_Boots_inovick
+  
   Final knitted document: https://github.com/inovick/AN588_Boots_inovick/blob/main/inovick_finalHWcode_05.html
 
 6. Group Module: Comparing phylogenetic tree topologies
+
   Final knitted document: https://fuzzyatelin.github.io/bioanth-stats/module-F21-Group4/module-F21-Group4.html
 
 7. Replication Assignment
+
   Repo: https://github.com/inovick/Replication_Assignment
+  
   Final knitted document: https://github.com/inovick/Replication_Assignment/blob/main/Replication_Assignment_inovick_FINAL.html
 
 8. Self Evaluation
+
   Repo: https://github.com/inovick/Self_Evaluation_Novick
+  
 ***
 
 ### What did you accomplish?
@@ -112,6 +131,7 @@ Please let me know how many of the above tasks you accomplished. If any of them 
 -Completed!
 8. Self Evaluation
 -Will be completed after I complete it. Logic queen.
+
 ***
 
 ### How well did you accomplish them?
@@ -125,6 +145,7 @@ I feel like I just barely accomplished the last 2 homework assignments. The firs
 I am, however, very proud of the work I did on the group module and the replication assignment. I never thought I would get to a level where I would be able to produce a readable .html document, or successfully reproduce someone else's analyses. Also, during the replication assignment, it was really exciting to actually get the same results as Horn et al. 
 
 My understanding of stats has definitely grown, but I think the most growth I've had was with my comfort using Rstudio and git. I have used R more frequently during this class than any other class or project I have had. So I got all the painful practice necessary to become "proficient" and I do use that term loosely. Even though I know so much more than I did at the start, in the grand scheme of things, I still feel like I don't really know what I'm doing (with this, and all other aspects of my life, but that's irrelevant). But I know that comparison is the thief of joy, so compared to my own self I have made great progress, and I will accept that.
+
 ***
 
 ### How has your understanding of and approach to statistics and project design changed since taking this course?
@@ -134,8 +155,8 @@ I have your website bookmarked! I will be going back through your modules as I c
 I've also learned that doing just cursory preliminary research is not enough when planning on doing a replication study! 
 
 Most importantly, I think I have learned the importance of patience and that this stuff takes time. I have compared this process to pulling teeth at least 3 times. I have learned it's ok to take my time, and that rushing won't really get me anywhere. I have always been very comfortable with writing, so much so that I have been known to save projects for the night before because I can just speed through (not a good habit anyway). But this type of work is not something I can do that with, so I have really had to practice time management and be mindful of how long each task will take. My radseq project has been taking a really long time, and now I feel like I have a more realistic expectation of the time it will actually take to complete.
-***
 
+***
 
 ### What did you learn from all this?
 
@@ -153,11 +174,21 @@ Please name at least three things you feel you learned in this course.<br><br><b
 6. How to be a more effective researcher
 7. How to write a tree in Newick string
 8. Being more comfortable reaching out to researchers who feel are really important, but are actually just people
+9. How to add a gif to a markdown!
+
+<center><p><img src="https://raw.githubusercontent.com/inovick/Self_Evaluation_Novick/main/rupaul-rpdr.gif" style="border:5px solid black"></p>
+</center><br>  
+
+
 ***
 
 ### What did your learn about teamwork in this course? How did the readings on teamwork foster this understanding? How did the teamwork experiences?
 
+<center><p><img src="https://raw.githubusercontent.com/inovick/Self_Evaluation_Novick/main/drama%20intrigue.gif" style="border:5px solid black"></p>
+</center><br>
+
 Ooh boy. I feel like reading about teamwork and actually working in a team have some differences. I've worked in a team before and done group projects many times, so I thought I knew what to expect, and to some extent, I did. However, there were a lot of communication issues during our group project. I believe that I could have communicated better, as there is always room for improvement, but looking back, I'm not exactly sure what I would have done differently. It was not a great experience to work with this group. Half of us did the majority of the work, planning, and delegating tasks. It did not feel like a real group effort because I didn't feel like we could actually rely on each other; if Abby or I did not do a task, I didn't trust that it would be completed. It was hard to not hear back about an issue for days, or not hear from a person for a week. If they had just communicated what was going on, I would have gotten a more realistic view of what we were working with and adjusted from there. Overall, what I took away from this is that communication is the most important aspect of teamwork, and without it, things break down and resentment builds. In the future, I will make sure everyone in my group is on the same page about expectations, and be clear that if they are experiencing a problem, they should let us know so we can work with them.
+
 ***
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
@@ -167,6 +198,7 @@ Ooh boy. I feel like reading about teamwork and actually working in a team have 
 ### How did the Peer Commentary process and Group Project relate, if at all, to what you view as your successes or difficulties in this course?
 
 Both of these assignments were challenging but ultimately led me to success. The peer commentaries were incredibly helpful, and getting feedback from other people in the class, as well as seeing how they solved a problem, was crucial to any advancement I made. It was also really helpful to see the process of other people in my group. I got a lot better at ggplot because Abby has more experience than me, so I got to learn from her! I'm glad that these group assignments were part of the class because it really helped me to engage with other people and the material. I feel like coding and statistics can be really isolating, so having other people in the same boat was important.
+
 ***
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
@@ -176,6 +208,7 @@ Both of these assignments were challenging but ultimately led me to success. The
 ### What, if anything, of lasting value do you take away from this experience? If nothing, what would you do differently if you were to start over in this course? 
 
 I feel so much more comfortable using R and just playing around with it. I've been trying to clean up this big dataset for my personal research, and I'm so happy I took this class because it gave me some really important, transferable skills. Again, I'm really happy to have the modules as a resource, too.
+
 ***
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
@@ -192,7 +225,12 @@ I think I would give myself a B. I am really proud of the work I did on the grou
 
 ***
 
-![]"https://raw.githubusercontent.com/inovick/Self_Evaluation_Novick/main/katya%20computer.gif"
+
+<font size="+2"><b>And now, my computer and I will be taking some space</b></font></center><br>
+
+<center><p><img src="https://raw.githubusercontent.com/inovick/Self_Evaluation_Novick/main/katya%20computer.gif" style="border:5px solid black"></p>
+</center><br>  
+
 
 
 
